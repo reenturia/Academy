@@ -1,1 +1,36 @@
 # Ecoleta
+-adiciona fontes de texto.
+-adicionando assents. imagens a pagina
+-usando displays 
+-configurando midia da pagina
+-criando paginas da aplicação 
+-criação de regras para resposnsividade
+-adicionando formulario na pagina
+-criando fildset e legends 
+-aplicando API de estados com java Script
+-criando rotas das paginas com java script
+-adicionando eventos de click com Java Script
+-criando estrutura de repetição com Java Script
+-adicionando e removendo uma classe com Java Script
+-criando arrays dentro do java script
+-adicionando elementos dentro de uma array no java script
+-criando modal na pagina
+-configurando modal com Java Script
+-criando um servidor com Java Script
+-trabalhando com guit bash
+-trabalhando com node JS
+-estruturando pastas do projeto para o Back-end
+-trabalhando com express
+-configurando caminhos da aplicação (paginas) no servidor 
+-trabalhando com templete engine (Nunjucks)
+-configurando block para paginas 
+- criando banco de dados (SQL)
+-inserir dados no banco de dados 
+
+-
+sc scaner
+-importando as dependecias do sqlLite
+-criando objetos que irá fazer operaçoes no banco de dados 
+-ultilizando o objeto do banco de dados para operaçoes.
+-criando tabela com comandos SQL
+-consultando dados na tabela 
